@@ -1,4 +1,4 @@
-## 🎬 MovieFlix
+# 🎬 MovieFlix
 
 A modern movie explorer built with **Next.js**, styled with **Tailwind CSS**, powered by the **TMDB API**, and designed for an immersive, dynamic user experience 🍿
 
@@ -8,25 +8,25 @@ A modern movie explorer built with **Next.js**, styled with **Tailwind CSS**, po
 
 🚀 **Dynamic Home Page** with categorized movies:
 
-* 🎞️ Now Playing
-* 🔥 Popular
-* 🏆 Top Rated
-* ⏳ Upcoming
+- 🎞️ Now Playing
+- 🔥 Popular
+- 🏆 Top Rated
+- ⏳ Upcoming
 
 🧠 **Detailed Movie Info**
 
-* Poster, Title, Rating, Overview, Cast, Director
-* 🎯 Similar Movies section
-* ➕ Add/Remove to/from "My List"
+- Poster, Title, Rating, Overview, Cast, Director
+- 🎯 Similar Movies section
+- ➕ Add/Remove to/from "My List"
 
 🧾 **My List Section**
 
-* Persistent via `localStorage`
-* Simple, responsive display
+- Persistent via `localStorage`
+- Simple, responsive display
 
 🔁 **Fallback Support**
 
-* Mock JSONs for seamless experience even if TMDB fails
+- Mock JSONs for seamless experience even if TMDB fails
 
 ---
 
@@ -106,19 +106,19 @@ yarn dev      # or pnpm dev / npm run dev
 
 ## 🎨 UI Highlights
 
-* 🖤 Dark mode enabled
-* 🌈 Gradient overlays and card hovers
-* 📱 Responsive design for all screen sizes
-* 🎭 Modals, Spinners & Animation via Framer Motion
+- 🖤 Dark mode enabled
+- 🌈 Gradient overlays and card hovers
+- 📱 Responsive design for all screen sizes
+- 🎭 Modals, Spinners & Animation via Framer Motion
 
 ---
 
 ## 📊 Evaluation Criteria
 
-* 📁 Clean folder structure
-* 🧠 Effective state + data handling
-* 🔥 UI/UX polish
-* 🧪 Error handling and recovery
+- 📁 Clean folder structure
+- 🧠 Effective state + data handling
+- 🔥 UI/UX polish
+- 🧪 Error handling and recovery
 
 ---
 
@@ -137,6 +137,8 @@ MIT © 2025 MovieFlix Project
 
 ---
 
-<p align="center">
-  <b>"Be there and be square."</b> — <i>Minecraft Movie</i> tagline 🎮
-</p>
+<div align="center">
+
+**"Be there and be square."** — _Minecraft Movie_ tagline 🎮
+
+</div>
