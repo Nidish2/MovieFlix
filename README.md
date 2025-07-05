@@ -1,6 +1,6 @@
-# 🎬 MovieFlix
+## 🎬 MovieFlix
 
-Your personalized movie discovery hub powered by TMDB 🎥🍿
+A modern movie explorer built with **Next.js**, styled with **Tailwind CSS**, powered by the **TMDB API**, and designed for an immersive, dynamic user experience 🍿
 
 ---
 
@@ -43,7 +43,7 @@ Your personalized movie discovery hub powered by TMDB 🎥🍿
 
 ## 🗂️ Folder Architecture
 
-```bash
+```shell
 📁 app                → Pages/routes
 📁 components         → UI blocks & modals
 📁 context            → Global state (MyList)
@@ -104,14 +104,6 @@ yarn dev      # or pnpm dev / npm run dev
 
 ---
 
-## 📸 Screenshots
-
-| Home Page                                                       | My List Page                                                    | Movie Details                                                      |
-| --------------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------------ |
-| ![](https://user-images.githubusercontent.com/0000000/home.gif) | ![](https://user-images.githubusercontent.com/0000000/list.gif) | ![](https://user-images.githubusercontent.com/0000000/details.gif) |
-
----
-
 ## 🎨 UI Highlights
 
 * 🖤 Dark mode enabled
@@ -130,7 +122,7 @@ yarn dev      # or pnpm dev / npm run dev
 
 ---
 
-## 👨‍💻 Built With ❤️ By
+## 👨‍💻 Built By
 
 **Nidish2**
 Made with ☕ coffee & 🎨 creativity
@@ -145,4 +137,6 @@ MIT © 2025 MovieFlix Project
 
 ---
 
-> "Be there and be square." — *Minecraft Movie* tagline 🎮
+<p align="center">
+  <b>"Be there and be square."</b> — <i>Minecraft Movie</i> tagline 🎮
+</p>
